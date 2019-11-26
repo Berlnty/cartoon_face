@@ -1,0 +1,35 @@
+﻿  Source.cpp
+Source.cpp(141): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(149): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(159): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Source.cpp(179): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(188): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(233): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Source.cpp(387): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(391): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Source.cpp(392): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Source.cpp(413): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Source.cpp(420): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Source.cpp(421): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Source.cpp(458): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(460): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(482): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(493): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Source.cpp(497): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(499): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Source.cpp(500): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Source.cpp(502): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(551): warning C4309: '=': truncation of constant value
+Source.cpp(556): warning C4309: '=': truncation of constant value
+Source.cpp(565): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(565): warning C4309: '=': truncation of constant value
+Source.cpp(566): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(566): warning C4309: '=': truncation of constant value
+Source.cpp(567): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(567): warning C4309: '=': truncation of constant value
+  Generating code
+  1 of 529 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project2.vcxproj -> G:\3rd year\1st term\image processing\project\Project2\Release\Project2.exe
